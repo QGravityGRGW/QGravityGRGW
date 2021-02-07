@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Loving Theoretical Marrying Computational.
 - :notebook_with_decorative_cover: ... **Relevant Coursework:** *Courses in Astronomy and Astrophysics* - High Energy Astrophysics, Radiation Processes in Astrophysics, Cosmology, Computational Astrophysics, Galaxies (Structure, Dynamics and Evolution), Structure and Evolution of Stars, Introduction to Astronomy and Astrophysics, Astronomical Techniques, Planetary Sciences, Data Analysis Astronomy Lab, Observational Astronomy Lab;(space, space)
+
 *Courses in Physics* - Special Theory of Relativity, General Theory of Relativity (pursuing), Classical Mechanics, Electromagnetic theory-1, Statistical Mechanics, Mathematical Physics, Particle Physics, Mechanics, Oscillations and waves;
 *Courses in Mathematics* - Differential equations, Probability and Statistics;
 *Courses in Engineering* - Applied Physics, Engineering Mathematics, Logic and Digital Circuits, Electronic Devices and Circuits, Signals and Systems, Electromagnetic Field Theory, Control Systems, Electrical and Electronic Instrumentation.
