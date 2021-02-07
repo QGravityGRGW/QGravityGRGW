@@ -12,6 +12,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/qgravity-gr-gw), [twitter](https://twitter.com/QGravity\_GR\_GW)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Loving Theoretical Marrying Computational.
+- :rocket: ... **Technical Skills:**
+
+*Languages* - C, Python, Embedded C.
+
+*Software Tools* - RMFIT, VpFit, CLOUDY, QFitsView, VisIt(Beginner), Anaconda, IRAF, CASA, CIAO, XSPEC, Matlab and Simulink, \LaTeX, Proteus(basic), LabVIEW (basic), Microsoft Visio, Photoshop, CorelDRAW, Camtasia Studio, AVR Studio (basic), CV AVR (basic), Microsoft Powerpoint, Microsoft Word, Microsoft Excel.
+
+*Developer Tools* - JupyterNotebook, github
+
+*Libraries* - Astropy, NumPy, Matplotlib, Scipy, MPDAF, PyCBC(Beginner), lalsuite(Beginner), bilby(Beginner), gwpy(Beginner)
+
+*Operating Systems* - Linux(Ubuntu), Windows
 - :notebook_with_decorative_cover: ... **Relevant Coursework:** 
 
 *Courses in Astronomy and Astrophysics* - High Energy Astrophysics, Radiation Processes in Astrophysics, Cosmology, Computational Astrophysics, Galaxies (Structure, Dynamics and Evolution), Structure and Evolution of Stars, Introduction to Astronomy and Astrophysics, Astronomical Techniques, Planetary Sciences, Data Analysis Astronomy Lab, Observational Astronomy Lab.
