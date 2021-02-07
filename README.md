@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/qgravity-gr-gw), [twitter](https://twitter.com/QGravity\_GR\_GW)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Loving Theoretical Marrying Computational.
+- :notebook_with_decorative_cover: 
 -->
