@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... Loving Theoretical Marrying Computational.
 - :rocket: ... **Technical Skills:**
 
-*Languages* - C, Python, Embedded C.
+*Languages* - Python, R, C, Embedded C.
 
 *Software Tools* - RMFIT, VpFit, CLOUDY, QFitsView, VisIt(Beginner), Anaconda, IRAF, CASA, CIAO, XSPEC, Matlab and Simulink, LaTeX, Proteus(basic), LabVIEW (basic), Microsoft Visio, Photoshop, CorelDRAW, Camtasia Studio, AVR Studio (basic), CV AVR (basic), Microsoft Powerpoint, Microsoft Word, Microsoft Excel.
 
